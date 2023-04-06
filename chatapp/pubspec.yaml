@@ -32,6 +32,8 @@ dependencies:
     sdk: flutter
   contacts_service: ^0.6.3
   permission_handler: ^8.1.5
+  flutter_riverpod: ^1.0.0
+  http: ^0.13.5
 
 
   # The following adds the Cupertino Icons font to your application.
